@@ -2,7 +2,7 @@
 
 Freelance senior full-stack developer based near Paris. I take on remote contract work in PHP/Symfony, Node.js and React, and I have been building production web platforms for 13 years.
 
-Clients I have worked for include Edenred, Chanel, Orange and Eni, plus banks and public-sector platforms where security and uptime are part of the brief. I'm Symfony certified and Node.js certified.
+Clients I have worked for include Edenred, Chanel, Orange and Eni, plus public-sector platforms where security and uptime are part of the brief. I'm Symfony certified and Node.js certified.
 
 ## What I can do for you
 
